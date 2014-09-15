@@ -1,7 +1,11 @@
 map-in-picture
 ==============
 
-Add a map picture in jpg photo
+Add a map picture in jpg photo.
+Coordinates of map taken from GPS EXIF tags of photo. You can write it automaticaly in JOSM, or manually in GeoSetter.
+
+
+![sample](https://farm4.staticflickr.com/3843/14583988518_5c04c5a96a_o.jpg)
 
 
 Usage:
